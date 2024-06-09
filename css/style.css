@@ -282,7 +282,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/portfolio/resh04.jpg);
+    background: url(../img/portfolio/resh07.jpg);
     background-size: cover;
     height: 100vh;
 }
@@ -290,6 +290,7 @@ a.active {
 .table-cell {
     display: table-cell;
     vertical-align: middle;
+    color: #fff;
 }
 
 .disply-table {
@@ -317,6 +318,10 @@ a.active {
     top: 40px;
     left: 50px;
     z-index: 1
+}
+#about-text{
+    font-size: large;
+    line-height: 30px;
 }
 
 
